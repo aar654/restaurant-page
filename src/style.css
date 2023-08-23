@@ -4,11 +4,10 @@ body {
 }
 
 #header {
-    display: flex;
-    margin: 30px;
+    display: block;
+    margin: 30px 0px;
     flex-wrap: wrap;
     justify-content: center;
-
 }
 
 #header-img {
@@ -56,7 +55,6 @@ body {
 
 hr {
     border: none;
-    margin-top: -15px;
     height: 2px;
     color: black;
     background-color: black;
@@ -109,3 +107,4 @@ h1 * {
     background: linear-gradient(to left,
             red, white, green);
 }
+
