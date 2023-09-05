@@ -1,4 +1,4 @@
-//function that creates the home page
+//function that creates the menu page
 function createMenu() {
     const menu = document.createElement('div');
     menu.setAttribute('id', 'menu');

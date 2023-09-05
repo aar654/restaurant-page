@@ -1,3 +1,4 @@
+//import functions that load the pages
 import loadHome from "./home";
 import loadMenu from "./menu";
 import loadContact from "./contact";

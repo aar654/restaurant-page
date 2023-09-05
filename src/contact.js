@@ -1,3 +1,4 @@
+//function that creates the contact page
 function createContact() {
 
     const contact = document.createElement('div');
